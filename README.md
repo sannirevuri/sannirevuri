@@ -2,13 +2,12 @@
 # 👋 Hi, I'm **Revuri Sanni**
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;PCB+Design+Learner;Machine+Learning+Explorer;Future+Hardware+Design+Engineer;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;PCB+Design+Learner;Analog+Design+Engineer;Future+Hardware+Design+Engineer;Always+Learning+Always+Building"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sannirevuri&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
@@ -39,6 +38,7 @@ To become an **Embedded Systems & Hardware Design Engineer** by developing real-
 # 💡 Core Interests
 
 - ⚡ Embedded Systems
+- 🚀 Analog Electronics
 - 🔌 PCB Design
 - 🤖 Artificial Intelligence
 - 📡 IoT
@@ -63,7 +63,7 @@ Embedded C • Analog Electronics • Digital Electronics • UART • GPIO • 
 
 ## Tools
 
-Git • GitHub • VS Code • Keil uVision • Flash Magic
+Git • GitHub • Proteus  • Keil uVision • Flash Magic • LTspice • Kicad 
 
 ---
 
@@ -144,23 +144,23 @@ VLSI                  ███░░░░░░░ 30%
 
 # 📊 GitHub Statistics
 
-Replace `YOUR_GITHUB_USERNAME`.
+Replace `sannirevuri`.
 
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannirevuriE&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user= sannirevuri&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sannirevuri&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sannirevuri&theme=tokyo-night)
 ```
 
 ---
 
 # 🌱 Currently Learning
 
-- STM32
+- PCB designing using ki-cad
 - ESP32
 - Embedded Linux
 - Verilog HDL
@@ -172,8 +172,8 @@ Replace `YOUR_GITHUB_USERNAME`.
 # 🤝 Connect With Me
 
 - 📧 sunnyroyal.revuri@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/revuri-sanni-94934039b
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💼 LinkedIn: [https://www.linkedin.com/in/revuri-sanni-94934039b](https://www.linkedin.com/in/sanni-revuri-94934039b/)
+- 💻 GitHub: https://github.com/sannirevuri
 
 ---
 
@@ -187,6 +187,6 @@ Replace `YOUR_GITHUB_USERNAME`.
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Learn • Build • Innovate • Inspire"*
+
 
 </div>
